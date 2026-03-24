@@ -1,6 +1,6 @@
 # 🌌 Nexus Autonomous Web IDE
 
-![Nexus Web IDE Screenshot](docs/screenshot.png)
+![Nexus Web IDE Screenshot](docs/flow_diagram_wrapped.png)
 
 An intelligent, local-first development environment that autonomously generates full-stack React applications via natural language. Powered by FastAPI, LangGraph, and Ollama, Nexus features a 3-agent pipeline capable of securely parsing, compiling, and rendering interactive codebases in real-time.
 
