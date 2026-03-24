@@ -5,3 +5,5 @@ __pycache__/
 *.db
 dist/
 build/
+generated_workspace/
+backend/generated_workspace/
